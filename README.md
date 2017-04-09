@@ -3,6 +3,7 @@
 Disclaimer: This code is not my work.
 
 This repo contains the source code for the awesome book on Design Patterns; Head First Design Patterns: A Brain-Friendly Guide.
+Other links for the book are available on the book page at <a href="http://wickedlysmart.com/head-first-design-patterns/">wickedlysmart.com</a>.
 
 Google: [link](https://www.google.com/search?q=head+first+design+patterns)   
 
